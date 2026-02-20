@@ -1,0 +1,11 @@
+export interface WorkOrder {
+  id?: string;            // Firestore document ID
+  type: string;
+  assetName: string;
+  description: string;
+  laborHours: number;
+  partsCost: number;
+  totalCost: number;
+  status: string;
+  createdAt: Date;
+}
