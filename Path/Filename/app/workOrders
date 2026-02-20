@@ -1,0 +1,9 @@
+workOrders/{workOrderId}
+  type: string            # "automotive" or "poultry"
+  assetName: string       # Vehicle name / House name
+  description: string
+  laborHours: number
+  partsCost: number
+  totalCost: number
+  status: string          # "open", "in progress", "closed"
+  createdAt: timestamp
