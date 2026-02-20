@@ -1,0 +1,23 @@
+# Node / Expo
+node_modules/
+.expo/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+firebase-debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+coverage/
+
+# TypeScript
+*.tsbuildinfo

@@ -1,0 +1,8 @@
+app/src/screens/
+app/src/components/
+app/src/services/
+app/src/models/
+app/src/utils/
+assets/
+backend/
+docs/
