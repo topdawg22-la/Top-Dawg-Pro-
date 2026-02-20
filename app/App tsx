@@ -14,3 +14,8 @@ export default function App() {
     </NavigationContainer>
   );
 }
+import WorkOrdersScreen from "./src/screens/WorkOrdersScreen";
+import WorkOrderForm from "./src/screens/WorkOrderForm";
+
+<Stack.Screen name="Work Orders" component={WorkOrdersScreen} />
+<Stack.Screen name="Create Work Order" component={WorkOrderForm} />
