@@ -1,0 +1,4 @@
+import WorkOrdersScreen from "./src/screens/WorkOrdersScreen";
+
+// Inside Stack.Navigator
+<Stack.Screen name="Work Orders" component={WorkOrdersScreen} />
