@@ -1,0 +1,9 @@
+app/src/screens/.gitkeep
+app/src/components/.gitkeep
+app/src/services/firebase.ts
+app/src/models/.gitkeep
+app/src/utils/.gitkeep
+backend/README.md
+docs/README.md
+assets/.gitkeep
+.gitignore
